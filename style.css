@@ -21,7 +21,7 @@ padding: 10px 200px;
 }
 .logo{
 text-decoration: none;
-color: darkcyan;
+color: dodgerblue;
 text-transform: uppercase;
 font-weight: 700;
 font-size: 1.8em;
@@ -40,7 +40,7 @@ padding-left: 30px;
 
 .navigation a:hover{
 
-    color: teal;
+    color: dodgerblue;
 }
 
 section{
@@ -116,7 +116,7 @@ transform: scale(1.1);
 }
 
 .social-icons a {
-color: lightcoral;
+color: dodgerblue;
 font-size: 1.7em;
 padding-right: 30px;
 
@@ -126,7 +126,7 @@ padding-right: 30px;
 .title {
     display: flex;
     justify-content: center;
-    color: darkcyan;
+    color: rgb(255, 255, 255);
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 30px;
@@ -156,7 +156,7 @@ padding-right: 30px;
 
 }
 .icon {
-    color: aquamarine;
+    color: dodgerblue;
     font-size: 8em;
     text-align: center;
     
@@ -167,19 +167,24 @@ padding-right: 30px;
 }
 
 .info h3{
-    color: aquamarine;
+    color: dodgerblue;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
 }
 
 .projects {
-    background-color: aquamarine;
+    background-color: dodgerblue;
 
 
 }
 .projects .content{
     margin-top: 30px;
+
+
+}
+.contact{
+    background-color: cornflowerblue;
 
 
 }
